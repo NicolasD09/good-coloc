@@ -4,11 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ded263b-f4aa-4006-81b5-14396dd5a13d" name="Changes" comment="chore : update prettier config">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4ded263b-f4aa-4006-81b5-14396dd5a13d" name="Changes" comment="chore : update gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/preview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eslint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/demo.FormComponents.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/demo.FormComponents.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/demo.chat-area.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/demo.chat-area.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/demo.messages.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/demo.messages.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/button.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/button.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/dialog.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/dialog.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/input.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/input.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/input.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/radio-group.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/radio-group.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/radio-group.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/radio-group.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/slider.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/slider.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/storybook/slider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/storybook/slider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/demo-table-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/demo-table-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/demo.punk-songs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/demo.punk-songs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db-collections/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/db-collections/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/demo.form-context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/demo.form-context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/demo.form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/demo.form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/demo.useChat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/demo.useChat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrations/tanstack-query/devtools.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrations/tanstack-query/devtools.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrations/tanstack-query/root-provider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrations/tanstack-query/root-provider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/router.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/__root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/__root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/api.names.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/api.names.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/api.tq-todos.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/api.tq-todos.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/db-chat-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/db-chat-api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/db-chat.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/db-chat.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/form.address.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/form.address.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/form.simple.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/form.simple.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.api-request.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/start.api-request.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.server-funcs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/start.server-funcs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.ssr.data-only.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/start.ssr.data-only.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.ssr.full-ssr.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/start.ssr.full-ssr.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.ssr.index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/start.ssr.index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.ssr.spa-mode.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/start.ssr.spa-mode.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/storybook.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/storybook.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/demo/tanstack-query.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/demo/tanstack-query.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +102,54 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "npm.check.executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.format.executor": "Run",
     "prettierjs.PrettierConfiguration.Package": "E:\\Coding\\good-coloc\\node_modules\\prettier",
     "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "E:\\Coding\\good-coloc\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="npm.check">
+    <configuration name="check" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="check" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="format" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="format" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.check" />
+        <item itemvalue="npm.format" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774123760421</updated>
-      <workItem from="1774123761763" duration="858000" />
+      <workItem from="1774123761763" duration="1335000" />
     </task>
     <task id="LOCAL-00001" summary="chore : update prettier config">
       <option name="closed" value="true" />
@@ -82,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774124497172</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore : update gitignore">
+      <option name="closed" value="true" />
+      <created>1774124636358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774124636358</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +190,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore : update prettier config" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore : update prettier config" />
+    <MESSAGE value="chore : update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore : update gitignore" />
   </component>
 </project>
