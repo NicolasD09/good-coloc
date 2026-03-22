@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ded263b-f4aa-4006-81b5-14396dd5a13d" name="Changes" comment="chore : lint">
+    <list default="true" id="4ded263b-f4aa-4006-81b5-14396dd5a13d" name="Changes" comment="feat : removed example code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/__root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/__root.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/api.names.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/api.tq-todos.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/db-chat-api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/db-chat.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/form.address.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/form.simple.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.api-request.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.server-funcs.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.ssr.data-only.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.ssr.full-ssr.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.ssr.index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/start.ssr.spa-mode.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/storybook.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/table.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/demo/tanstack-query.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NicolasD09"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NicolasD09/good-coloc.git",
+    "accountId": "bb67d13a-b526-460d-81d8-1cf676e619fa"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -137,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774123760421</updated>
       <workItem from="1774123761763" duration="1434000" />
-      <workItem from="1774178648584" duration="785000" />
+      <workItem from="1774178648584" duration="2182000" />
     </task>
     <task id="LOCAL-00001" summary="chore : update prettier config">
       <option name="closed" value="true" />
@@ -163,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774125172676</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat : removed example code">
+      <option name="closed" value="true" />
+      <created>1774179490809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774179490809</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +175,7 @@
     <MESSAGE value="chore : update prettier config" />
     <MESSAGE value="chore : update gitignore" />
     <MESSAGE value="chore : lint" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore : lint" />
+    <MESSAGE value="feat : removed example code" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : removed example code" />
   </component>
 </project>
