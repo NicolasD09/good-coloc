@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4ded263b-f4aa-4006-81b5-14396dd5a13d" name="Changes" comment="feat : removed example code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774123760421</updated>
       <workItem from="1774123761763" duration="1434000" />
-      <workItem from="1774178648584" duration="2182000" />
+      <workItem from="1774178648584" duration="2548000" />
     </task>
     <task id="LOCAL-00001" summary="chore : update prettier config">
       <option name="closed" value="true" />
